@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="portugues-br>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hellou World</title>
+</head>
+<body>
+    <h1>Comando git</h1>
+    <ul>
+        <li>inicializa git</li>
+        <li>git status da resultado do reepositorio</li>
+        <li>git pull atualizar a pagina do diretorio</li>
+    </ul>
+</body>
+</html>
